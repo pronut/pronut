@@ -1,7 +1,7 @@
 
 <h1 align="center">👋I'm nut (can be classified as gelnut/brewnut/pronut)</h1>
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronut" />
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronut)](https://github.com/pronut)
 
 >### 🌱 gelnut: nut is like a piece of gel and inactive
 >### 🌱 brewnut: nut brews in many species of games
