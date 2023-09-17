@@ -4,7 +4,7 @@
 
 >### 🌱 gelnut: nut is like a piece of gel and inactive
 >### 🌱 brewnut: nut brews in many species of games
->### 🌱 pronut: nut wants to be "pro" so opens github to learn more about CS
+>### 🌱 pronut: nut wants to be "pro" so opens github
 
 <h1 align="center"> ꀀꃨꀖꀸꅔꁶꂮꃍꃢꄀꄚꅑꅨꀂꀆꀘꄶꂖꁘꂓꃤꄸꅓꅖꃨꀃꀙꀀꁙꁹꂔꂱꃐꄝꄹꅔꀚꄟꅬꆻꇞꉊꊲꋔꐀ</h1>
 
