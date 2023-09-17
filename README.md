@@ -1,19 +1,15 @@
-<h1 align="center">👋I'm nut (can be classified as gelnut/brewnut/pronut)</h1>
-
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronut" />
+<h1 align="center">👋I'm nut</h1>
 
+
+## I can be classified as gelnut/brewnut/pronut
 >### 🌱 gelnut: nut is like a piece of gel and inactive
 >### 🌱 brewnut: nut brews in many species of games
 >### 🌱 pronut: nut wants to be "pro" so opens github
 
 <h1 align="center"> ꀀꃨꀖꀸꅔꁶꂮꃍꃢꄀꄚꅑꅨꀂꀆꀘꄶꂖꁘꂓꃤꄸꅓꅖꃨꀃꀙꀀꁙꁹꂔꂱꃐꄝꄹꅔꀚꄟꅬꆻꇞꉊꊲꋔꐀ</h1>
 
-<p align="center">
-  <a href="https://github.com/pronut" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=pronut&show_icons=true&theme=radical" alt="pronut's Stats" >
-  </a>
-</p>
-<h2></h2>
+[![pronut's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronut&theme=vue&count_private=true&show_icons=true&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 #### ⭐I‘m currently studying as an undergraduate⭐
 
