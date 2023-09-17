@@ -7,7 +7,7 @@
 >### 🌱 brewnut: nut brews in many species of games
 >### 🌱 pronut: nut wants to be "pro" so opens github
 
-<h1 align="center"> ꀀꃨꀖꀸꅔꁶꂮꃍꃢꄀꄚꅑꅨꀂꀆꀘꄶꂖꁘꂓꃤꄸꅓꅖꃨꀃꀙꀀꁙꁹꂔꂱꃐꄝꄹꅔꀚꄟꅬꆻꇞꉊꊲꋔꐀ</h1>
+<h1 align="center"> ꀀꃨꀖꀸꅔꁶꂮꃍꃢꄀꄚꅑꅨꀂꀆꀘꄶꂖꁘꂓꃤꄸꅓꅖꃨꀃꀙꀀꁙꁹꂔꂱꃐꄝꄹꅔꀚꄟꅬꆻꇞꉊꊲ</h1>
 
 #### ⭐I‘m currently studying as an undergraduate⭐
 >#### A newbie but still exploring :)
