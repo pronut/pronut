@@ -1,10 +1,10 @@
 <h1 align="center">👋I'm nut (can be classified as gelnut/brewnut/pronut)</h1>
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronut)](https://github.com/pronut)
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronut" />
+
 >### 🌱 gelnut: nut is like a piece of gel and inactive
 >### 🌱 brewnut: nut brews in many species of games
 >### 🌱 pronut: nut wants to be "pro" so opens github to learn more about CS
-
 
 <h1 align="center"> ꀀꃨꀖꀸꅔꁶꂮꃍꃢꄀꄚꅑꅨꀂꀆꀘꄶꂖꁘꂓꃤꄸꅓꅖꃨꀃꀙꀀꁙꁹꂔꂱꃐꄝꄹꅔꀚꄟꅬꆻꇞꉊꊲꋔꐀ</h1>
 
